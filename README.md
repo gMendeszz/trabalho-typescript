@@ -4,21 +4,6 @@ Este projeto contém uma coleção de **18 exercícios resolvidos em TypeScript*
 
 ---
 
-## Estrutura do Projeto
-
-├── node_modules/ # Dependências (não incluídas no repositório)
-├── src/
-│ ├── exercicios/
-│ │ ├── exercicio1.ts
-│ │ ├── exercicio2.ts
-│ │ └── ... até o exercicio18.ts
-│ └── index.ts # Menu principal que chama todos os exercícios
-├── .gitignore
-├── package.json
-├── package-lock.json
-├── tsconfig.json
-└── README.md
-
 ## Como executar o projeto
 
 1. **Clone o repositório:**
